@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GL3sB9Adg7p1JdWjQkOLlKq0TDN1IW3kaX2UEILToVVrd3zHPcRGmOSV/hGHpSIckf+D3fAibpEPOYHHDj72xg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\affan\\source\\repos\\FPWinery\\FPWinery\\FPWinery.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\affan\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.117\\stub.system.data.sqlite.core.netstandard.1.0.117.nupkg.sha512",
+    "C:\\Users\\affan\\.nuget\\packages\\system.data.sqlite.core\\1.0.117\\system.data.sqlite.core.1.0.117.nupkg.sha512"
+  ],
+  "logs": []
+}
